@@ -1,5 +1,5 @@
 # Full Stack Social Media App 
-Live Preview here https://insta-lite.vercel.app/sign-in
+Live Preview [here] (https://insta-lite.vercel.app/sign-in)
 
 # React + TypeScript + Vite
 
